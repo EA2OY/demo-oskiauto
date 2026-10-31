@@ -1,5 +1,8 @@
 # Oskiauto — nueva versión web
 
+> **Demo publicada:** <https://ea2oy.github.io/demo-oskiauto/>
+> **Repositorio:** <https://github.com/EA2OY/demo-oskiauto>
+
 Rediseño estático de **oskiauto.com** manteniendo el contenido visible del sitio
 original (textos de Bienvenida, Servicios, Oski-Consejos, Galería, Contacto y
 Política de cookies) y las fotos reales del taller.
